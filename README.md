@@ -2,10 +2,6 @@
 
 Welcome to the 100 Days of Python challenge! This repository contains my journey through 100 days of learning and coding in Python. Each day I will complete a coding task, project, or exercise to improve my Python skills.
 
-## Table of Contents
-
-1. [Day 1: Getting Started]()
-
 ## Daily Progress
 
 ### Day 1: Getting Started
