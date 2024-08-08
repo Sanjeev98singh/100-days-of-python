@@ -7,8 +7,15 @@
 # name = input("Enter your name: ")
 # print(name)
 
-name = "san jeev "
-print(len(name))
-name = "vicky"
+# name = "san jeev "
+# print(len(name))
+# name = "vicky"
 
-print(len(name))
+# print(len(name))
+
+# print(len(input("")))
+
+# username = input("")
+# length = len(username)
+# print(length)
+
