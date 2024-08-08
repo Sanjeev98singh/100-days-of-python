@@ -4,7 +4,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 
 ## Table of Contents
 
-1. [Day 1: Getting Started](#day-1-getting-started)
+1. [Day 1: Getting Started]()
 
 ## Daily Progress
 
