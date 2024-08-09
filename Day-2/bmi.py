@@ -9,8 +9,8 @@
 
 # print(round(bmi, 2))
 
-bmi = 30.85
-height = 174
-weight = 90
+# bmi = 30.85
+# height = 174
+# weight = 90
 
-print(f"my height is {height} and weight is {weight}, based on the height and weight my bmi is {bmi}")
+# print(f"my height is {height} and weight is {weight}, based on the height and weight my bmi is {bmi}")
