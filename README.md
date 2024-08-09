@@ -10,7 +10,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - Learned how to implement the len, type functions, and a list
 
 ### Day 2:
-- Learn the implementation of typpe conversion
+- Learn the implementation of type conversion
 
 ## Resources
 
