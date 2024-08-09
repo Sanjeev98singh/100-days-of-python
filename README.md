@@ -6,7 +6,6 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 
 ### Day 1: Getting Started
 - Installed Python and set up the development environment.
-- Wrote Python script: `hello_world.py`.
 - Learned how to implement the len, type functions, and a list
 
 ### Day 2:
@@ -14,6 +13,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - PEMDASLR
 - fstrings
 - RoundOff functions
+- public variable(sanjeev),protected variable(_sanjeev),private variable(__sanjeev) and magical variables(__sanjeev__)
 
 ## Resources
 
