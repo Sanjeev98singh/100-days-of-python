@@ -13,7 +13,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - PEMDASLR
 - fstrings
 - RoundOff functions
-- public variable(sanjeev),protected variable(_sanjeev),private variable(__sanjeev) and magical variables(__sanjeev__)
+- public variable(sanjeev),protected variable(_sanjeev),private variable(__sanjeev) and magical variables([__sanjeev__])
 
 ## Resources
 
