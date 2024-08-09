@@ -9,7 +9,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - Wrote my first Python script: `hello_world.py`.
 - Learned how to implement the len, type functions, and a list
 
-### Day 1:
+### Day 2:
 - Learn the implementation of typpe conversion
 
 ## Resources
