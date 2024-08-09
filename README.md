@@ -6,7 +6,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 
 ### Day 1: Getting Started
 - Installed Python and set up the development environment.
-- Wrote my first Python script: `hello_world.py`.
+- Wrote Python script: `hello_world.py`.
 - Learned how to implement the len, type functions, and a list
 
 ### Day 2:
