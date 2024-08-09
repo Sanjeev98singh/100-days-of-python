@@ -12,6 +12,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 ### Day 2:
 - Learn the implementation of type conversion
 - PEMDASLR
+- RoundOff functions
 
 ## Resources
 
