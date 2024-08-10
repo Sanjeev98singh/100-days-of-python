@@ -22,6 +22,10 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - help(any_datatype.any_any_method) we can find the brief description about that particular method.
 - import builtins -> dir(builtins) by using the directory builtins from imported builtins modules in the python shell we can find any functions and elements which python supports.
 
+### Day 3:
+- pip package manager
+- builtin modules and external modules
+
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/)
