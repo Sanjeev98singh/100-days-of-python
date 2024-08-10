@@ -18,6 +18,9 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - id() function-> to know about the address of the object
 - Base Conversion function
 - capitalize(), append(), upper(), lower() and title() methods explored
+- dir(str) by using the directory string in the python shell we can find any methods which python supports. 
+- help(any_datatype.any_any_method) we can find the brief description about that particular method.
+- import builtins -> dir(builtins) by using the directory builtins from imported builtins in the python shell we can find any functions and elements which python supports.
 
 ## Resources
 
