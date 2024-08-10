@@ -64,26 +64,30 @@
 
 # print("Welcome to the rollercoaster")
 
-# height = float(input("Enter your height in cm: "))
-# bill = 0
+height = float(input("Enter your height in cm: "))
+bill = 0
 
-# if height >= 120:
-#     print("You can ride the rollercoaster!")
-#     age = int(input("Enter your age: "))
-#     if age <= 10:
-#         print("You are not allowed to ride the rollercoaster due to age restriction.")
-#     elif age <= 18:
-#         bill = 200
-#         print("You are allowed to ride the rollercoaster, but you will need a parent or guardian's permission.")
-#     else:
-#         bill = 300
-#         print("You can ride the rollercoaster!")  
+if height >= 120:
+    print("You can ride the rollercoaster!")
+    age = int(input("Enter your age: "))
+    if age <= 10:
+        print("You are not allowed to ride the rollercoaster due to age restriction.")
+    elif age <= 18:
+        bill = 200
+        print("You are allowed to ride the rollercoaster, but you will need a parent or guardian's permission.")
 
-#     wants_photo_too = input("do you wants to click photo too? Type Y for yes and N for no: ")
-#     if wants_photo_too == "Y":
-#         bill += 100
-#         print("Total bill:", bill)      
-# else:
-#     print("Sorry, you are too short to ride the rollercoaster.")
+    elif 45 <= age <= 55:
+        print("You are allowed to ride the rollercoaster, and its free for you to ride the rollercoaster")
+        bill = 0
+    else:
+        bill = 300
+        print("You can ride the rollercoaster!")  
+
+    wants_photo_too = input("do you wants to click photo too? Type Y for yes and N for no: ")
+    if wants_photo_too == "Y":
+        bill += 100
+        print("Total bill:", bill)      
+else:
+    print("Sorry, you are too short to ride the rollercoaster.")
 
 
