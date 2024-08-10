@@ -26,6 +26,28 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - pip package manager
 - builtin modules and external modules
 
+## Installation
+
+To install the required Python modules, follow these steps:
+
+1. Ensure you have Python and pip installed on your system. You can download Python from [python.org](https://www.python.org/).
+
+2. Open your terminal or command prompt.
+
+3. Navigate to the directory where your `requirements.txt` file is located.
+
+4. Run the following command to install the necessary modules:
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+If you don't have a `requirements.txt` file, you can install individual modules using:
+
+```sh
+pip install <module_name>
+
+
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/)
