@@ -10,6 +10,8 @@ if size == "S":
       extra_cheese = input("Do you want extra cheese? Y or N: ")
       if extra_cheese == "Y":
          bill += 15
+      else:
+         bill += 0   
    else:
       bill = small_pizza
 
@@ -20,6 +22,8 @@ elif size == "M":
       extra_cheese = input("Do you want extra cheese? Y or N: ")
       if extra_cheese == "Y":
          bill += 20
+      else:
+         bill += 0   
 
 elif size == "L":
    pepperoni = input("Do you want pepperoni to serve? Y or N: ")
@@ -28,7 +32,8 @@ elif size == "L":
       extra_cheese = input("Do you want extra cheese? Y or N: ")
       if extra_cheese == "Y":
          bill += 25
-
+      else:
+         bill += 0
 else:
    print("Invalid size. Please choose S, M or L.")
 
