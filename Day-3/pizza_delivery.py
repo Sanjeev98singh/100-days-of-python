@@ -29,5 +29,9 @@ elif size == "L":
       if extra_cheese == "Y":
          bill += 25
 
+else:
+   print("Invalid size. Please choose S, M or L.")
+
+
 print(f"Your final bill is {bill}Rs")
    
