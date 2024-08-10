@@ -1,30 +1,30 @@
 # 100 Days of Python
 
-Welcome to the 100 Days of Python challenge! This repository contains my journey through 100 days of learning and coding in Python. Each day I will complete a coding task, project, or exercise to improve my Python skills.
+Welcome to the 100 Days of Python challenge! This repository contains my journey through 100 days of learning and coding in Python. Each day, I will complete a coding task, project, or exercise to improve my Python skills.
 
 ## Daily Progress
 
 ### Day 1: Getting Started
 - Installed Python and set up the development environment.
-- learned more about Python shell commands
-- Learned how to implement the len, type functions, and a list
+- Learned about Python shell commands.
+- Implemented the `len`, `type` functions, and worked with lists.
 
-### Day 2:
-- PEMDASLR
-- fstrings
-- RoundOff functions
-- public variable(sanjeev),protected variable(_sanjeev),private variable(__sanjeev) and magical variables(__sanjeev__)
-- Import Keyword-> keyword.kwlist
-- id() function-> to know about the address of the object
-- Base Conversion function
-- capitalize(), append(), upper(), lower() and title() methods explored
-- dir(str) by using the directory string in the python shell we can find any methods which python supports. 
-- help(any_datatype.any_any_method) we can find the brief description about that particular method.
-- import builtins -> dir(builtins) by using the directory builtins from imported builtins modules in the python shell we can find any functions and elements which python supports.
+### Day 2
+- Explored PEMDASLR (Order of Operations in Python).
+- Used f-strings for formatted strings.
+- Practiced rounding numbers with `round()`.
+- Learned about public (`sanjeev`), protected (`_sanjeev`), private (`__sanjeev`), and magic variables (`__sanjeev__`).
+- Used the `import keyword` to view Python keywords with `keyword.kwlist`.
+- Utilized the `id()` function to find the address of an object.
+- Worked with base conversion functions.
+- Explored string methods: `capitalize()`, `append()`, `upper()`, `lower()`, and `title()`.
+- Used `dir(str)` to find methods supported by the string data type.
+- Used `help(any_datatype.any_method)` to get descriptions of specific methods.
+- Imported the `builtins` module and used `dir(builtins)` to find supported functions and elements.
 
-### Day 3:
-- pip package manager
-- builtin modules and external modules
+### Day 3
+- Learned about the `pip` package manager.
+- Explored built-in and external modules.
 
 ## Installation
 
@@ -34,23 +34,22 @@ To install the required Python modules, follow these steps:
 
 2. Open your terminal or command prompt.
 
-3. Navigate to the directory where your `requirements.txt` file is located.
-
-4. Run the following command to install the necessary modules:
+3. Run the following command to install the necessary modules:
 
     ```sh
-    pip install -r requirements.txt
+    pip install <module_name>
     ```
 
-If you don't have a `requirements.txt` file, you can install individual modules using:
+Replace `<module_name>` with the name of the module you need to install.
 
-```sh
-pip install <module_name>
+For example, to install `requests`, you would run:
 
+    ```sh
+    pip install requests
+    ```
 
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/)
 - [Programmiz Python Course](https://www.programiz.com/python-programming)
 - [Real Python](https://realpython.com/)
-
