@@ -17,7 +17,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 - Import Keyword-> keyword.kwlist
 - id() function-> to know about the address of the object
 - Base Conversion function
-- capitalize(), append() and title() method explored
+- capitalize(), append(), upper(), lower() and title() methods explored
 
 ## Resources
 
