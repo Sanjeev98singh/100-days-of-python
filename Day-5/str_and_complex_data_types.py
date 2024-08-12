@@ -72,7 +72,7 @@
 
 # slice operator
 
-string = 'sanjeevsinghbhadouria'
+# string = 'sanjeevsinghbhadouria'
 
 # # print(string[0:8])
 # # print(string[3:7])
@@ -90,6 +90,6 @@ string = 'sanjeevsinghbhadouria'
 # print(string[0:len(string) - 1] + string[-1].upper())
 # # or
 # print(string[:len(string) - 1] + string[-1].upper())
-print(string[0].upper() + string[1:-1] + string[-1].upper())
-# or
-print(string[0].upper() + string[1:len(string)-1] + string[-1].upper())
+# print(string[0].upper() + string[1:-1] + string[-1].upper())
+# # or
+# print(string[0].upper() + string[1:len(string)-1] + string[-1].upper())
