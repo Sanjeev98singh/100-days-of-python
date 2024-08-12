@@ -29,6 +29,9 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 ### Day 4
 - **Base Conversion in Python**: I've recently learned how to perform base conversion in Python. This includes converting numbers between different bases such as binary, decimal, and hexadecimal.
 
+### Day 4
+Explored Complex and String Data Types in Python
+
 ## Installation
 
 To install the required Python modules, follow these steps:
