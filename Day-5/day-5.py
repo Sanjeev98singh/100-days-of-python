@@ -44,3 +44,13 @@
 # string = "sanjeev"
 # print(string + string)
 
+# multi line  string literals
+
+# string = '''sanjeev
+#                     singh 
+#                          bhadouria'''
+# string = """sanjeev
+#                     singh 
+#                          bhadouria"""
+# print(string)
+
