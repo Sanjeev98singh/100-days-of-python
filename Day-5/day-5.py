@@ -57,5 +57,7 @@
 # string = "i am sanjeev i know python and javascript 'despite of having knowledge of python and javascript' i am starting this repository to teach my juniors"
 # string = 'i am sanjeev i know python and javascript "despite of having knowledge of python and javascript" i am starting this repository to teach my juniors'
 # string = '''i am sanjeev "i know python and javascript" 'despite of having knowledge of python and javascript' i am starting this repository to teach my juniors'''
+# string = '''i am sanjeev \"i know python and javascript\" \'despite of having knowledge of python and javascript\' i am starting this repository to teach my juniors'''
+
 
 # print(string)
