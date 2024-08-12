@@ -93,3 +93,16 @@
 # print(string[0].upper() + string[1:-1] + string[-1].upper())
 # # or
 # print(string[0].upper() + string[1:len(string)-1] + string[-1].upper())
+# string = 'sanjeev' + 10
+# print(string)   error message
+
+# string = 'sanjeev' + '10'
+# string repetition operator
+# string = 'sanjeev' * '10' error
+# string = 'sanjeev' * 10 
+# # or 
+# string = 10 * 'sanjeev'
+# print(string)
+
+# print('sanjeev' * 'sanjeev')
+print(4 * 'sanjeev' * 3)
