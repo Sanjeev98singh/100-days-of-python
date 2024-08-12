@@ -38,3 +38,9 @@
 # print(True * True)
 # print(True + 20j)
 
+# str data type
+
+# string = 'sanjeev'
+# string = "sanjeev"
+# print(string + string)
+
