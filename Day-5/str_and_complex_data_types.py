@@ -82,4 +82,9 @@ string = 'sanjeevsinghbhadouria'
 # print(string[3:])
 # print(string[:]) full string from beginning of string to end of string
 # print(string[0:500]) upto available characters it will print
-print(string[0:500])
+# print(string[7:2]) empty string from beginning of string to end of string because we have not provided steps
+# print(string.upper())
+print(string[0].upper() + string[1:])
+print(string[0:-1] + string[-1].upper())
+# or
+print(string[0:len(string) - 1] + string[-1].upper())
