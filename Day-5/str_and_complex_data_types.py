@@ -80,4 +80,6 @@ string = 'sanjeevsinghbhadouria'
 # # or
 # print(string[0:7])
 # print(string[3:])
-print(string[:])
+# print(string[:]) full string from beginning of string to end of string
+# print(string[0:500]) upto available characters it will print
+print(string[0:500])
