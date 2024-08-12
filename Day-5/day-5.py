@@ -18,3 +18,12 @@
 
 # complex_data_type = 0B1111 + 20j
 # print(complex_data_type)
+
+# compile_complex_data_1 = 10 + 20j
+
+# compile_complex_data_2 = 10.5 + 20.7j
+
+# print(compile_complex_data_1 + compile_complex_data_2)
+# print(compile_complex_data_1 - compile_complex_data_2)
+# print(compile_complex_data_1 * compile_complex_data_2)
+# print(compile_complex_data_1 / compile_complex_data_2)
