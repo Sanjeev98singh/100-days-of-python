@@ -61,3 +61,7 @@
 
 
 # print(string)
+
+# string = 'sanjeev'
+# print(string[6])
+# print(string[-1])
