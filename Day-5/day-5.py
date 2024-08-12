@@ -30,3 +30,10 @@
 
 # complex_data_type = 10 + 20.7j
 # print(complex_data_type.real + complex_data_type.imag)
+
+# bool data type 
+
+# print(True + True)
+# print(True + False)
+# print(True * True)
+
