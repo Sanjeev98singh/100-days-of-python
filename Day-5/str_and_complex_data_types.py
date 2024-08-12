@@ -69,3 +69,15 @@
 # s = '................................................................................................................................'
 # print(s[-1])
 # print(s[len(s)-1])
+
+# slice operator
+
+string = 'sanjeevsinghbhadouria'
+
+# # print(string[0:8])
+# # print(string[3:7])
+# print(string[:7])
+# # or
+# print(string[0:7])
+# print(string[3:])
+print(string[:])
