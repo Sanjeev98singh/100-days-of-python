@@ -27,3 +27,6 @@
 # print(compile_complex_data_1 - compile_complex_data_2)
 # print(compile_complex_data_1 * compile_complex_data_2)
 # print(compile_complex_data_1 / compile_complex_data_2)
+
+# complex_data_type = 10 + 20.7j
+# print(complex_data_type.real + complex_data_type.imag)
