@@ -65,6 +65,11 @@
 # print(bool(1 + 0j))
 # print(bool( + 1j))
 
+print(bool('true'))
+print(bool('false'))
+print(bool('yes'))
+print(bool('no'))
+
 
 
 
