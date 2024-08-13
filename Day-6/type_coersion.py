@@ -54,5 +54,17 @@
 # TypeError: complex() can't take second arg if first is a string
 # print(complex(10,20.7))
 
+# bool()
+
+# print(bool(0))
+# print(bool(10))
+# print(bool(10.7))
+# print(bool(0.0))
+# print(bool(0.000000000000000000000000001))
+# print(bool(0 + 0j))
+# print(bool(1 + 0j))
+# print(bool( + 1j))
+
+
 
 
