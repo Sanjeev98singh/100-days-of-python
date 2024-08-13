@@ -10,6 +10,8 @@
 # ValueError: invalid literal for int() with base 10: '0B1111'
 # print(int('sanjeev'))
 # ValueError: invalid literal for int() with base 10: 'sanjeev'
+# print(int(10+20j))
+
 
 # float()
 
