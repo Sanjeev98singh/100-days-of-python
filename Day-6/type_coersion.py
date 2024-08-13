@@ -9,7 +9,7 @@
 # print(int('0B1111'))
 # ValueError: invalid literal for int() with base 10: '0B1111'
 # print(int('sanjeev'))
-# alueError: invalid literal for int() with base 10: 'sanjeev'
+# ValueError: invalid literal for int() with base 10: 'sanjeev'
 
 # float()
 
@@ -21,4 +21,11 @@
 # print(float(True))
 # print(float('0B1111'))
 # ValueError: could not convert string to float: '0B1111'
-print(float(0B1111))
+
+# print(float(0B1111))
+# print(float('sanjeev'))
+# ValueError: could not convert string to float: 'sanjeev'
+
+ 
+
+
