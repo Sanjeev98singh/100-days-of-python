@@ -41,5 +41,18 @@
 # print(complex('sanjeev'))
 # ValueError: complex() arg is a malformed string
 
+#  complex(x,y)
+
+# print(complex(10,20))
+# print(complex(10.5,20.7))
+# print(complex(True,False))
+# print(complex('10','20'))
+# TypeError: complex() can't take second arg if first is a string
+# print(complex(10,'20'))
+# TypeError: complex() second arg can't be a string
+# print(complex('10',20))
+# TypeError: complex() can't take second arg if first is a string
+# print(complex(10,20.7))
+
 
 
