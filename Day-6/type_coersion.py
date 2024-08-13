@@ -26,6 +26,20 @@
 # print(float('sanjeev'))
 # ValueError: could not convert string to float: 'sanjeev'
 
- 
+#  complex()
+
+# print(complex(10))
+# print(complex(10.5))
+# print(complex(True))
+# print(complex(False))
+# print(complex(True))
+# print(complex('10'))
+# print(complex('10.5'))
+# print(complex(0B1111))
+# print(complex('0B1111'))
+# ValueError: complex() arg is a malformed string
+# print(complex('sanjeev'))
+# ValueError: complex() arg is a malformed string
+
 
 
