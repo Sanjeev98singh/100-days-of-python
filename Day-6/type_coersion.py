@@ -73,5 +73,15 @@
 # print(bool(' '))
 
 
+# str()
+
+# print(str(10))
+# print(str(10.5))
+# print(str(10.5 + 20j))
+# print(str(True))
+# print(str(0B1111))
+
+
+
 
 
