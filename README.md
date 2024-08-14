@@ -33,7 +33,7 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 Explored Complex Data Types, String Data Types and slice[] operator in Python
 
 ### Day 6
-Fundamental Data Types vs Immutability
+Fundamental Data Types vs Immutability and type coercion
 
 ## Installation
 
