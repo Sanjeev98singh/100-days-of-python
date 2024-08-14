@@ -9,3 +9,9 @@
 # print (id(num2))
 
 # print(num1 is num2) return 
+
+# num1 = 20 + 50j
+# num2 = 20 + 50j
+# print (id(num1))
+# print (id(num2))
+# print(num1 is num2)
