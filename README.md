@@ -35,6 +35,9 @@ Explored Complex Data Types, String Data Types and slice[] operator in Python
 ### Day 6
 Fundamental Data Types vs Immutability and type coercion
 
+### Day 6
+Difference between Immutability and mutability and brief description about collection related data types
+
 ## Installation
 
 To install the required Python modules, follow these steps:
