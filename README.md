@@ -32,6 +32,9 @@ Welcome to the 100 Days of Python challenge! This repository contains my journey
 ### Day 5
 Explored Complex Data Types, String Data Types and slice[] operator in Python
 
+### Day 6
+Fundamental Data Types vs Immutability
+
 ## Installation
 
 To install the required Python modules, follow these steps:
