@@ -37,5 +37,16 @@
 
 # list 
 
-# items = [1,'sanjeev',True, 1.5, 1+2j]
+# items = [1,'sanjeev',True, 1.5, 1+2j, 1]
+# print(items[0]) 
+# print(items[-1]) 
+# print(items[2:4]) 
+# items.append(5)
+# items.append(7)
+# print(items) 
+# print(len(items)) 
+
+# items = {1,'sanjeev',True, 1.5, 1+2j, 1}
 # print(items)
+
+
