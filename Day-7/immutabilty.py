@@ -15,3 +15,12 @@
 # print (id(num1))
 # print (id(num2))
 # print(num1 is num2)
+
+lis = [1,2,3,4,5]
+print(lis)
+print(id(lis))
+lis[0] = 0
+print(lis)
+print(id(lis))
+
+
