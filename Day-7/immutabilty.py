@@ -34,3 +34,8 @@
 
 # print(lis)
 # print(lis2)
+
+# list 
+
+# items = [1,'sanjeev',True, 1.5, 1+2j]
+# print(items)
