@@ -11,8 +11,12 @@
 
 # tuple data type
 
-t = (1,2,3,4,5,2,'sanjeev')
-print(t)
+# t = (1,2,3,4,5,2,'sanjeev')
+# print(t)
 # print(t[0])
 # print(t[-1])
 # print(t[1:3])
+# t = (1,2,3,4,5,2,'sanjeev')
+# t[1] = 3 TypeError: 'tuple' object does not support item assignment
+# t.append(4) AttributeError: 'tuple' object has no attribute 'append'
+# print(t)
