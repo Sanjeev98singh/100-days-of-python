@@ -11,4 +11,5 @@
 
 # tuple data type
 
-
+t = (1,2,3,4,5,2,'sanjeev')
+print(t)
