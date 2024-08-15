@@ -20,3 +20,6 @@
 # t[1] = 3 TypeError: 'tuple' object does not support item assignment
 # t.append(4) AttributeError: 'tuple' object has no attribute 'append'
 # print(t)
+
+# l = [1,2,3,4,5]
+# t = (1,2,3,4,5)
