@@ -39,7 +39,7 @@ Fundamental Data Types vs Immutability and type coercion
 Difference between Immutability and mutability and brief description about collection related data types
 
 ### Day 8
-List vs Set
+List vs Set vs tuple
 
 ## Installation
 
