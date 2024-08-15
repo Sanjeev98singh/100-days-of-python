@@ -38,6 +38,9 @@ Fundamental Data Types vs Immutability and type coercion
 ### Day 7
 Difference between Immutability and mutability and brief description about collection related data types
 
+### Day 8
+List vs Set
+
 ## Installation
 
 To install the required Python modules, follow these steps:
