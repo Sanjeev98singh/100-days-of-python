@@ -3,3 +3,5 @@
 # t = (1,)  tuple type
 # t = ('sanjeev') treated as string type
 # print(type(t)) 
+# t = 1,2,3,4 treated as tuple type
+# print(type(t))
