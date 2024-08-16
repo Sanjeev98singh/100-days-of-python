@@ -12,6 +12,8 @@
 # sets
 
 s = {1,2,3,4}
-print(s)
+# s.add(5)
+# print(s)
+# s.remove(2)
 # print(s[1]) TypeError: 'set' object is not subscriptable
-print(type(s))
+# print(s)
