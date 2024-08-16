@@ -5,3 +5,5 @@
 # print(type(t)) 
 # t = 1,2,3,4 treated as tuple type
 # print(type(t))
+
+# default numbers of values in the single variable will always be considered as tuple
