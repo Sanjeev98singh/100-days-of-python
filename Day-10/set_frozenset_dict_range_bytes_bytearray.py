@@ -85,8 +85,16 @@
 
 # or
 
-l = []
-for x in range(0,101,5):
-    l.append(x)
+# l = []
+# for x in range(0,101,5):
+#     l.append(x)
 
-print(l)
+# print(l)
+
+# r = range(10)
+# # print(r[1])
+# # print(r[-1])
+# # print(r[2:4]) range(2, 4)
+# r[1] = 7777 TypeError: 'range' object does not support item assignment
+# print(r)
+
