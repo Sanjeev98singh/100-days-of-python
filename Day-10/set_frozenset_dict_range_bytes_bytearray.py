@@ -113,4 +113,9 @@
 
 
 # bytearray
-
+# (0,255)
+l = [1, 2, 3, 4, 5]
+b = bytearray(l)
+b[0] = 76
+for x in b:
+    print(x)
