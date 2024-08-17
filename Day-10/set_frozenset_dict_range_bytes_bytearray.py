@@ -13,3 +13,7 @@
 # print(type(fs))
 
 # dict
+
+d = {1:'sanjeev', 2:'vicky', 3:'ujjwal'}
+print(type(d))
+print(d)
