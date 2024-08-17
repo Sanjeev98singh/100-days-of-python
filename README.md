@@ -44,7 +44,7 @@ List vs Tuple
 ### Day 9
 All about Tuple and Set
 
-### Day 9
+### Day 10
 Frozenset, dictionary, range , bytes and bytearray
 
 ## Installation
