@@ -28,3 +28,7 @@
 # print(type(d))
 # print(d)
 # print(d[3])
+
+# d = {1:'sanjeev', 2:'vicky', 3:'ujj', 'shvvh':2}
+# print(d['shvvh'])
+# print()
