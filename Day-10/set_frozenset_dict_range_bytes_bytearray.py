@@ -11,3 +11,5 @@
 # s = {1,2,3,5}
 # fs = frozenset(s)
 # print(type(fs))
+
+# dict
