@@ -58,3 +58,11 @@
 # r = range(1,5)
 # for x in r:
 #     print(x)
+
+# form-3
+
+# r = range(1,11,2)
+# r = range(15,1,-2)
+
+# for x in r:
+#     print(x)
