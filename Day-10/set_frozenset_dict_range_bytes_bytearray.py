@@ -38,3 +38,10 @@
 # d[c] = 'dasgjdgdg'
 # print(d)
 # print(type(d))
+
+# d = {1:'sanjeev', 1:'vicky', 1:'ujj'}  {1: 'ujj'}
+# print(d)
+
+d = {1:['sanjeev', 'vicky', 'vic']}
+print(d)
+
