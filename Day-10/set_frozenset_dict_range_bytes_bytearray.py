@@ -17,3 +17,13 @@
 # d = {1:'sanjeev', 2:'vicky', 3:'ujjwal'}
 # print(type(d))
 # print(d)
+
+d = {}
+# d[key] = value
+d[1] = 'sanjeev'
+d[2] = 'sanjeev'
+d[3] = 'sanjeev'
+d[4] = 'sanjeev'
+d[5] = 'sanjeev'
+print(type(d))
+print(d)
