@@ -98,3 +98,11 @@
 # r[1] = 7777 TypeError: 'range' object does not support item assignment
 # print(r)
 
+# bytes (0,255) same as range
+
+# l = [1, 2, 3, 4, 5, 6, 256] ValueError: bytes must be in range(0, 256)
+# l = [0, 1, 2, 3, 4, 5]
+# b= bytes(l)
+# print(b[0:2])
+
+print(type(b))
