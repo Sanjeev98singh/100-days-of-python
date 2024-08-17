@@ -45,7 +45,7 @@
 # d = {1:['sanjeev', 'vicky', 'vic']}
 # print(d)
 
-# range
+# range(form-1)
 
 # r = range(10)
 # # print(r)  range(0, 10)
@@ -54,3 +54,7 @@
 
 # print(type(r))
 
+# form-2
+# r = range(1,5)
+# for x in r:
+#     print(x)
