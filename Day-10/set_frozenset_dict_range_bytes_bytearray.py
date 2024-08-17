@@ -32,7 +32,9 @@
 # d = {1:'sanjeev', 2:'vicky', 3:'ujj', 'shvvh':2}
 # print(d['shvvh'])
 # print()
-a,b = 1,2
-d = {a:'sanjeev', b:'vicky'}
-print(d)
-print(type(d))
+# key values we can make same if we compared to other key values
+# a,b,c = 1,2,3   
+# d = {a:'sanjeev', b:'vicky', c:'vic'}
+# d[c] = 'dasgjdgdg'
+# print(d)
+# print(type(d))
