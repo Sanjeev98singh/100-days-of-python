@@ -32,3 +32,7 @@
 # d = {1:'sanjeev', 2:'vicky', 3:'ujj', 'shvvh':2}
 # print(d['shvvh'])
 # print()
+a,b = 1,2
+d = {a:'sanjeev', b:'vicky'}
+print(d)
+print(type(d))
