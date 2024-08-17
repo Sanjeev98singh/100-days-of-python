@@ -71,3 +71,14 @@
 
 # for x in r:
 #     print(x) nothing
+
+# r = range(0,101,5)
+
+# for x in r:
+#     print(x)
+
+# or
+l = []
+
+for x in range(0,101,5):
+    print(x)
