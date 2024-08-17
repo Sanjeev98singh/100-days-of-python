@@ -110,3 +110,7 @@
 # # b[0] = 67676 TypeError: 'bytes' object does not support item assignment
 
 # print(b)
+
+
+# bytearray
+
