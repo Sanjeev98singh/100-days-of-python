@@ -78,7 +78,15 @@
 #     print(x)
 
 # or
+# l = []
+
+# for x in range(0,101,5):
+#     print(x)
+
+# or
+
 l = []
 
 for x in range(0,101,5):
+    l.append(x)
     print(x)
