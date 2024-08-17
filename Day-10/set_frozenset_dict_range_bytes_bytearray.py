@@ -47,10 +47,10 @@
 
 # range
 
-r = range(10)
-# print(r)  range(0, 10)
-for x in r:
-   print(x)
+# r = range(10)
+# # print(r)  range(0, 10)
+# for x in r:
+#    print(x)
 
-print(type(r))
+# print(type(r))
 
