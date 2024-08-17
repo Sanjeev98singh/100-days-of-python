@@ -22,8 +22,9 @@ d = {}
 # d[key] = value
 d[1] = 'sanjeev'
 d[2] = 'sanjeev'
-d[3] = 'sanjeev'
+d[3] = 'yo'
 d[4] = 'sanjeev'
 d[5] = 'sanjeev'
 print(type(d))
 print(d)
+print(d[3])
