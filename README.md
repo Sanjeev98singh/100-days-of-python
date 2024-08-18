@@ -47,6 +47,9 @@ All about Tuple and Set
 ### Day 10
 Frozenset, dictionary, range , bytes and bytearray
 
+### Day 11
+Revision of previous concepts
+
 ## Installation
 
 To install the required Python modules, follow these steps:
