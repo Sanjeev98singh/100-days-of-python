@@ -33,3 +33,12 @@
 # print(MAX_VALUE)
 
 # However constant does not work in python but as per industry standards practices we use MAX_VALUE as a CONSTANT
+
+# 1.454
+# floor int Value = > 1
+# floor float Value = > 1.0
+# ceil float Value = > 2.0
+# ceil int Value = > 2
+
+# print(10/3)  3.3333333333333335
+print(10//3)
