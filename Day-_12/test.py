@@ -46,3 +46,9 @@
 # print(10.0//3) 3.0
 # print(10.0/3) 3.333333
 # print('sanjeev' * 0)
+
+# relational
+
+# name_1 = 'sanjeev'
+# name_2 = 'ravi'
+# print(name_1>=name_2)
