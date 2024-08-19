@@ -24,3 +24,12 @@
 
 
 # '''
+
+# constant
+
+# for standard industry practices we use MAX_VALUE AS A CONSTANT
+
+# MAX_VALUE = 1000
+# print(MAX_VALUE)
+
+# However constant does not work in python but as per industry standards practices we use MAX_VALUE as a CONSTANT
