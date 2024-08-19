@@ -12,6 +12,10 @@
 
 # print(name)
 
-name = "sanjeev \\singh\\" 
+# name = "sanjeev \\singh\\"  sanjeev \singh\
 
-print(name)
+# print(name)
+
+# name = "sanjeev \'singh\"" sanjeev 'singh"
+
+# print(name)
