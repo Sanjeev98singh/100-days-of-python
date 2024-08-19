@@ -50,6 +50,9 @@ Frozenset, dictionary, range , bytes and bytearray
 ### Day 11
 Revision of previous concepts
 
+### Day 12
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
