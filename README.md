@@ -51,7 +51,7 @@ Frozenset, dictionary, range , bytes and bytearray
 Revision of previous concepts
 
 ### Day 12
-None Data Types, Documentation String
+None Data Types, Documentation String, ceil and floor and relational operator on ascii values
 
 ## Installation
 
