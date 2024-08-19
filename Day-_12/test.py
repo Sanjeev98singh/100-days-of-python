@@ -45,3 +45,4 @@
 # print(10**3) 
 # print(10.0//3) 3.0
 # print(10.0/3) 3.333333
+# print('sanjeev' * 0)
