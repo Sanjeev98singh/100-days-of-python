@@ -7,3 +7,7 @@
 # y = None
 # z = None
 # print(type(x), type(y), type(z))
+
+# name = "sanjeev \'singh\'" sanjeev 'singh'
+
+# print(name)
