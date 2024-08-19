@@ -51,7 +51,7 @@ Frozenset, dictionary, range , bytes and bytearray
 Revision of previous concepts
 
 ### Day 12
-
+None Data Types
 
 ## Installation
 
