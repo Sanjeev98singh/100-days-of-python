@@ -41,4 +41,5 @@
 # ceil int Value = > 2
 
 # print(10/3)  3.3333333333333335
-print(10//3)
+# print(10//3) 3.3 
+print(10**3) 
