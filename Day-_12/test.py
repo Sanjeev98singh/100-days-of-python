@@ -11,3 +11,7 @@
 # name = "sanjeev \'singh\'" sanjeev 'singh'
 
 # print(name)
+
+name = "sanjeev \\singh\\" 
+
+print(name)
