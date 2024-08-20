@@ -53,6 +53,9 @@ Revision of previous concepts
 ### Day 12
 None Data Types, Documentation String, ceil and floor and relational operator on ascii values
 
+### Day 13
+Revision of previous concepts
+
 ## Installation
 
 To install the required Python modules, follow these steps:
