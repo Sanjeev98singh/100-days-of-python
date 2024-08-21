@@ -57,6 +57,7 @@ None Data Types, Documentation String, ceil and floor and relational operator on
 Revision of previous concepts
 
 ### Day 14
+python versions and documentation
 
 ## Installation
 
