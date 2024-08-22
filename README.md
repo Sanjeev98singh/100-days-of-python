@@ -60,7 +60,7 @@ Revision of previous concepts
 python versions and documentation
 
 ### Day 15
- Memory management behind the scenes in Python, Sequence of data stored in Python, insert method in Python
+ Memory management behind the scenes in Python, Sequence of data stored in Python, insert method in Python, fstring in python
 
 ## Installation
 
