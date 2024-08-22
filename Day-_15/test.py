@@ -15,17 +15,17 @@
 
 #dict
 
-burger = {
-    "name": "burger",
-    "price": 10
-}
+# burger = {
+#     "name": "burger",
+#     "price": 10
+# }
 
-items = [burger]
+# items = [burger]
 
-print(burger["name"])
-print(burger["price"])
+# print(burger["name"])
+# print(burger["price"])
 
-burger["rating"] = 5
+# burger["rating"] = 5
 
-print(burger)
-print(items)
+# print(burger)
+# print(items)
