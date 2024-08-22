@@ -29,3 +29,7 @@
 
 # print(burger)
 # print(items)
+
+# name = '"burger" khalu \n kya'
+
+# print(f"thik hai {name}")
