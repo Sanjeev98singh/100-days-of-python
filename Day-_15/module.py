@@ -19,3 +19,7 @@
 
 # module("dusra module hai bhai")
 
+
+import test
+
+test.hello()
