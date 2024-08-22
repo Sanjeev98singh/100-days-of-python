@@ -33,3 +33,10 @@
 # name = '"burger" khalu \n kya'
 
 # print(f"thik hai {name}")
+
+# def main(n):
+#     print(n)
+
+
+# # main(6)    
+# main("thik hai bbhaii")    
