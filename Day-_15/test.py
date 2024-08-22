@@ -7,3 +7,8 @@
 
 # print(id(value_1))
 
+# value = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# value.insert(1, 10)
+
+# print(value) [1, 10, 2, 3, 4, 5, 6, 7, 8, 9]
