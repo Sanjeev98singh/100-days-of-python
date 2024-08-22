@@ -12,3 +12,20 @@
 # value.insert(1, 10)
 
 # print(value) [1, 10, 2, 3, 4, 5, 6, 7, 8, 9]
+
+#dict
+
+burger = {
+    "name": "burger",
+    "price": 10
+}
+
+items = [burger]
+
+print(burger["name"])
+print(burger["price"])
+
+burger["rating"] = 5
+
+print(burger)
+print(items)
