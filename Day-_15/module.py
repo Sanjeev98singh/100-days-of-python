@@ -9,13 +9,13 @@
 # jokes = pyjokes.get_joke()
 # print(jokes)
 
-from test import module
+# from test import module
 
-def main(n):
-    print(n)
+# def main(n):
+#     print(n)
 
-# main(6)
-main("thik hai bbhaii")
+# # main(6)
+# main("thik hai bbhaii")
 
-module("dusra module hai bhai")
+# module("dusra module hai bhai")
 
