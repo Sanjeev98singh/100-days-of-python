@@ -45,3 +45,5 @@
 # def module(message):
 #     print(message)
 
+def hello():
+    print("Hello from module!")
