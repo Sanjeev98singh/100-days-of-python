@@ -40,3 +40,7 @@
 
 # # main(6)    
 # main("thik hai bbhaii")    
+
+
+def module(message):
+    print(message)
