@@ -59,6 +59,9 @@ Revision of previous concepts
 ### Day 14
 python versions and documentation
 
+### Day 15
+ Memory management behind the scenes in Python
+
 ## Installation
 
 To install the required Python modules, follow these steps:
