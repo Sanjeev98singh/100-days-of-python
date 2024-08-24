@@ -21,3 +21,14 @@
 # print(mobile)
 # print(mobile['name'])
 
+# Example-3
+
+# dude can you provide me random numbers from the database
+# import random
+
+# random_number = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+
+# s_list = list(random_number)
+
+# random.shuffle(s_list)
+# print(s_list)
