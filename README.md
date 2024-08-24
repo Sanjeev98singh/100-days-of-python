@@ -66,6 +66,7 @@ python versions and documentation
 Brief overview of unittests in Python
 
 ### Day 17
+real world examples of using variables in Python, code readability for better naming convention of variables in Python
 
 ## Installation
 
