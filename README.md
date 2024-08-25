@@ -68,6 +68,9 @@ Brief overview of unittests in Python
 ### Day 17
 real world examples of using variables in Python, code readability for better naming convention of variables in Python
 
+### Day 18
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
