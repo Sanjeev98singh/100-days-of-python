@@ -10,3 +10,7 @@
 # print(10<20<30)  true
 # print(30<20<30)  false
 # print(10<20<30<40>50) false
+
+
+# equality operator
+
