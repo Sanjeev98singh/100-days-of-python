@@ -22,3 +22,6 @@
 # print(True == 1) true
 # print(ord('a') == 97) true
 # print(True == 1.0) true
+# print(10 == 10 == 10 == 10) true
+# print(10 == 20 == 10 == 10) false
+# print(True == 1 == 1.0) true
