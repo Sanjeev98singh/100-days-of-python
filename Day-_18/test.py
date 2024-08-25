@@ -14,3 +14,6 @@
 
 # equality operator
 
+# print('sanjeev' == 'ravi') false
+# print('sanjeev' == 10) false
+# print(10 == 10.0) true
