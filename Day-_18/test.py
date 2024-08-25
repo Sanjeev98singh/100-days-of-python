@@ -17,3 +17,6 @@
 # print('sanjeev' == 'ravi') false
 # print('sanjeev' == 10) false
 # print(10 == 10.0) true
+# print(10 == '10') false
+# print('a' == 97) false
+# print(True == 1) true
