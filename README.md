@@ -69,7 +69,7 @@ Brief overview of unittests in Python
 real world examples of using variables in Python, code readability for better naming convention of variables in Python
 
 ### Day 18
-
+chaining of operational operators in Python, order function to analyse ascii values
 
 ## Installation
 
