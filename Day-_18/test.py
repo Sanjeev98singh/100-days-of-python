@@ -6,3 +6,7 @@
 # print('sanjeev' > '297') 115 > 50
 # print(ord('s'))
 # print(ord('297'))
+
+# print(10<20<30)  true
+# print(30<20<30)  false
+# print(10<20<30<40>50) false
