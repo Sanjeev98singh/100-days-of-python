@@ -71,6 +71,9 @@ real world examples of using variables in Python, code readability for better na
 ### Day 18
 chaining of operational operators in Python, order function to analyse ascii values
 
+### Day 19
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
