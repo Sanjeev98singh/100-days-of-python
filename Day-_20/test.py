@@ -17,13 +17,13 @@
 # for num in my_iter:
 #     print(num)
 
-def my_generator(start, end):
-    current = start
-    while current < end:
-        yield current
-        current += 1
+# def my_generator(start, end):
+#     current = start
+#     while current < end:
+#         yield current
+#         current += 1
 
-gen = my_generator(1, 5)
-for num in gen:
-    print(num)
+# gen = my_generator(1, 5)
+# for num in gen:
+#     print(num)
 
