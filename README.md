@@ -72,7 +72,7 @@ real world examples of using variables in Python, code readability for better na
 chaining of operational operators in Python, order function to analyse ascii values
 
 ### Day 19
-
+equality operators in Python
 
 ## Installation
 
