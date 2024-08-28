@@ -74,6 +74,9 @@ chaining of operational operators in Python, order function to analyse ascii val
 ### Day 19
 equality operators in Python
 
+### Day 20
+Generator and Iterator functions
+
 ## Installation
 
 To install the required Python modules, follow these steps:
