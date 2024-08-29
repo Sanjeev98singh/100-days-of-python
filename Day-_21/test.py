@@ -14,5 +14,5 @@
 # print(l3 is l1)
 
 # logical operator
-print(10 and 20)
-print(0 and 20)
+# print(10 and 20)
+# print(0 and 20)
