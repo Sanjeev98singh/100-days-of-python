@@ -12,3 +12,6 @@
 # print(l3 == l1)
 # print(id(l3), id(l1))
 # print(l3 is l1)
+
+# logical operator
+print(10 and 20)
