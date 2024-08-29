@@ -16,3 +16,5 @@
 # logical operator
 # print(10 and 20)
 # print(0 and 20)
+print('' and 'sanjeev')
+print('' and 'sanjeev')
