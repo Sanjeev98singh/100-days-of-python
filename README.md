@@ -77,6 +77,8 @@ equality operators in Python
 ### Day 20
 Generator and Iterator functions
 
+### Day 21
+
 ## Installation
 
 To install the required Python modules, follow these steps:
