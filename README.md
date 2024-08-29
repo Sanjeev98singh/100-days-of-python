@@ -78,6 +78,7 @@ equality operators in Python
 Generator and Iterator functions
 
 ### Day 21
+difference between == and is in Python
 
 ## Installation
 
