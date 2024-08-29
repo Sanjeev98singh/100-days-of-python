@@ -18,3 +18,8 @@
 # print(0 and 20)
 # print('' and 'sanjeev')
 # print('ravi' and 'sanjeev')
+
+# print(10 or 20)
+# print(0 or 20)
+# print('' or 'sanjeev')
+# print('ravi' or 'sanjeev')
