@@ -40,6 +40,6 @@
 # import sys to count bytes of data type
 
 # print(sys.getsizeof(4))
-
+# print(~(-4)) 3
 
 # shift operator 
