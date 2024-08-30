@@ -24,3 +24,6 @@
 
 # username = int(input('Enter your username:'))
 # print(type(username))
+
+# Bitwise Operator
+
