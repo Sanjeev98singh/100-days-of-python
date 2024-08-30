@@ -81,7 +81,7 @@ Generator and Iterator functions
 difference between == and is in Python
 
 ### Day 22
-not operator in Python
+not operator in Python, Bitwise Complement Operator
 
 ## Installation
 
