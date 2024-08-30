@@ -30,3 +30,7 @@
 # print(True & False)
 # print(1 & 0)
 # print(1.5 & 0.0) TypeError: unsupported operand type(s) for &: 'float' and 'float'
+
+print(4 & 5)
+print(4 | 5)
+print(4 ^ 5)
