@@ -35,7 +35,7 @@
 # print(4 | 5) 5
 # print(4 ^ 5) 1
 
-# print(~4)
+# print(~4) 4 = 0000000000000000000000000000000000000000100
 
 # import sys to count bytes of data type
 
