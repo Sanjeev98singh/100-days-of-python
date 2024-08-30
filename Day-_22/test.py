@@ -43,3 +43,5 @@
 # print(~(-4)) 3
 
 # shift operator 
+
+#left shift operator
