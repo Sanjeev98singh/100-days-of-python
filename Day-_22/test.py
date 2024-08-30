@@ -21,3 +21,6 @@
 
 # username = input('Enter your username:')
 # print(type(username))
+
+# username = int(input('Enter your username:'))
+# print(type(username))
