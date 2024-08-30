@@ -47,3 +47,5 @@
 #left shift operator
 
 # print(10<<2)
+
+# right shift operator
