@@ -36,3 +36,7 @@
 # print(4 ^ 5) 1
 
 # print(~4)
+
+# import sys to count bytes of data type
+
+# print(sys.getsizeof(4))
