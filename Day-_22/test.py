@@ -18,3 +18,6 @@
 #     print('Access denied.')
 #     print('Please try again.')
 #     print('Goodbye!')
+
+# username = input('Enter your username:')
+# print(type(username))
