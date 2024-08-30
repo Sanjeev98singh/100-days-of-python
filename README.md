@@ -80,6 +80,9 @@ Generator and Iterator functions
 ### Day 21
 difference between == and is in Python
 
+### Day 22
+not operator in Python
+
 ## Installation
 
 To install the required Python modules, follow these steps:
