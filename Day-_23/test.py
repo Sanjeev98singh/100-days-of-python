@@ -141,3 +141,9 @@
 # r = int(input('Enter the radius'))
 # print(pi*r*r)
 
+
+# random module
+
+# from random import randint
+from random import *
+print(randint(0,9))
