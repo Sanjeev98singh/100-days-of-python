@@ -132,8 +132,8 @@
 # print(dir(math))
 
 from math import *
-print('PI: ',pi)
-print('E: ',e)
-print(ceil(10.1))
-print(floor(10.1))
+# print('PI: ',pi)
+# print('E: ',e)
+# print(ceil(10.1))
+# print(floor(10.1))
 
