@@ -37,3 +37,12 @@
 # print(min(1,2,3,4,5,6,7,8,9))
 
 # special operartors
+
+
+# num1 = 10
+# num2 = 10
+
+# print(num1 == num2)
+# print(num1 is num2)
+# print(num1 is not num2)
+# print(id(num1),id(num2))
