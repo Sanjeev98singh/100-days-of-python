@@ -95,3 +95,11 @@
 # print(sv.name)
 # sv.add(10, 20) 
 # sv.mult(10, 20)
+
+# from sanjeev import PI,name 
+from sanjeev import *
+
+print(PI)
+print(name)
+add(10, 20) 
+mult(10, 20)
