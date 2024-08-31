@@ -87,5 +87,11 @@
 
 # print(2 in l1)
 
+#module
 
+import sanjeev
 
+print(sanjeev.PI)
+print(sanjeev.name)
+sanjeev.add(10, 20) 
+sanjeev.mult(10, 20)
