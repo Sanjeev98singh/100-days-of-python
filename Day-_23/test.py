@@ -18,3 +18,6 @@
 # min = num1 if num1 < num2 else num2
 
 # print('printed minimum value: ',min)
+
+# minimum of three numbers
+# nested conditional operator
