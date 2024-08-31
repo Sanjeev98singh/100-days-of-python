@@ -89,9 +89,9 @@
 
 #module
 
-import sanjeev
+import sanjeev as sv
 
-print(sanjeev.PI)
-print(sanjeev.name)
-sanjeev.add(10, 20) 
-sanjeev.mult(10, 20)
+print(sv.PI)
+print(sv.name)
+sv.add(10, 20) 
+sv.mult(10, 20)
