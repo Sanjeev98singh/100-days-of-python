@@ -110,3 +110,9 @@
 # print(name)
 # a(10, 20) 
 # mult(10, 20)
+# import math
+
+# print(math.pi)
+
+# print(math.sqrt(16))
+
