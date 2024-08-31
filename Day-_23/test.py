@@ -46,3 +46,14 @@
 # print(num1 is num2)
 # print(num1 is not num2)
 # print(id(num1),id(num2))
+
+# s1 = 'sanjeev'
+# s2 = 'ravi'
+
+# print(s1 == s2)
+
+# print(s1 is s2)
+# print(s1 is not s2)
+
+# print(id(s1),id(s2))
+
