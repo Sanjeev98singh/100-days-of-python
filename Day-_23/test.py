@@ -57,3 +57,14 @@
 
 # print(id(s1),id(s2))
 
+
+# l1 = [1,2,3,4,5,6,7,8]
+# l2 = [1,2,3,4,5,6,7,8]
+
+# print(l1 == l2)
+
+# print(l1 is l2)
+# print(l1 is not l2)
+
+# print(id(l1),id(l2))
+
