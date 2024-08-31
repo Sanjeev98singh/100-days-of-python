@@ -104,9 +104,9 @@
 # add(10, 20) 
 # mult(10, 20)
 
-from sanjeev import add as a
+# from sanjeev import add as a
 
 # print(PI)
 # print(name)
-a(10, 20) 
+# a(10, 20) 
 # mult(10, 20)
