@@ -97,9 +97,16 @@
 # sv.mult(10, 20)
 
 # from sanjeev import PI,name 
-from sanjeev import *
+# from sanjeev import *
 
-print(PI)
-print(name)
-add(10, 20) 
-mult(10, 20)
+# print(PI)
+# print(name)
+# add(10, 20) 
+# mult(10, 20)
+
+from sanjeev import add as a
+
+# print(PI)
+# print(name)
+a(10, 20) 
+# mult(10, 20)
