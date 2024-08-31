@@ -2,3 +2,8 @@
 # print(+age) always 10
 # print(++age) always 10
 # print(+++age) always 10
+
+# age = 10
+# print(-age) always -10
+# print(--age) always -10
+# print(---age) always -10
