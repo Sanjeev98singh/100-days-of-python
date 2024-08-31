@@ -137,3 +137,7 @@ from math import *
 # print(ceil(10.1))
 # print(floor(10.1))
 
+# area of circle
+r = int(input('Enter the radius'))
+print(pi*r*r)
+
