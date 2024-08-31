@@ -131,13 +131,13 @@
 # import math 
 # print(dir(math))
 
-from math import *
+# from math import *
 # print('PI: ',pi)
 # print('E: ',e)
 # print(ceil(10.1))
 # print(floor(10.1))
 
 # area of circle
-r = int(input('Enter the radius'))
-print(pi*r*r)
+# r = int(input('Enter the radius'))
+# print(pi*r*r)
 
