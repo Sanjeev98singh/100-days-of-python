@@ -68,3 +68,18 @@
 
 # print(id(l1),id(l2))
 
+
+# membership operator
+
+# s = 'hii how are you doing this and what about it?'
+
+# print('h' in s)
+
+# print('hi' not in s)
+
+# print('and' in s)
+
+# print('hello' in s)
+
+# print('world' not in s)
+
