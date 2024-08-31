@@ -84,7 +84,7 @@ difference between == and is in Python
 not operator in Python, Bitwise Complement Operator, import sys from Python module and Shift operator(left and right shift operator)
 
 ### Day 23
-Nested ternary operator in Python, special operator, identity operator and membership operator
+Nested ternary operator in Python, special operator, identity operator, membership operator, modules and math module
 
 ## Installation
 
