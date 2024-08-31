@@ -21,3 +21,14 @@
 
 # minimum of three numbers
 # nested conditional operator
+
+
+# num1 = int(input('Enter First Number: '))
+# num2 = int(input('Enter Second Number: '))
+
+# s1 = 'Both Numbers are equal'
+# s2 = 'First Number is greater than second'
+# s3 = 'First Number is less than second'
+
+# results = s1 if num1==num2 else s2 if num1>num2 else s3
+# print(results)
