@@ -116,3 +116,9 @@
 
 # print(math.sqrt(16))
 
+# from math import *
+
+# print(pi)
+
+# print(sqrt(16))
+
