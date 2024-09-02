@@ -22,3 +22,14 @@ ename = input('Enter employee Name: ')
 esal = float(input('Enter employee Salary: '))
 eaddr = input('Enter employee Address: ')
 married = bool(input('Eployee Married?[True|False] '))
+print('Please confirm your information')
+
+print(f'Employee Number: {eno}')
+
+print(f'Employee Name: {ename}')
+
+print(f'Employee Salary: {esal}')
+
+print(f'Employee Address: {eaddr}')
+
+print(f'Employee Married: {married}')
