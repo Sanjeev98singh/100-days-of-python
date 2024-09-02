@@ -68,3 +68,7 @@
 
 
 # multiple values input in a single line
+
+s = '10 20 30'
+l = s.split()
+# print(l) ['10', '20', '30']
