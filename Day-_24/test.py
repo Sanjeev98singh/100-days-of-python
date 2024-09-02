@@ -33,3 +33,11 @@
 # print(f'Employee Address: {eaddr}')
 
 # print(f'Employee Married: {married}')
+
+# EVAL
+
+# print(eval('str'))
+# print(eval('3'))
+# print(eval('4.7'))
+# print(eval('True'))
+# print(eval('False'))
