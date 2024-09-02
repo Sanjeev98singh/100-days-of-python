@@ -86,3 +86,7 @@
 
 # LIST COMPREHENSION
 
+l,b = [int(x) for x in input('Enter Two Numbers: ').split() ] 
+# print(l,b) 1 2
+# print(type(l))
+# print(type(b))
