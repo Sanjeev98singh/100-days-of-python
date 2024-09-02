@@ -77,9 +77,12 @@
 # print(a,b,c) 10 20 30
 # print(type(a,b,c))  TypeError: type.__new__() argument 1 must be str, not int
 # l = input('Enter Two Numbers: ').split() #['1', '2', '3']
-l,b = input('Enter Two Numbers: ').split()
-print(l)
-print(b)
+# l,b = input('Enter Two Numbers: ').split()
+# print(l)
+# print(b)
 # print(type(b)) str
 # l = s.split()
 # print(l) ['1', '2']
+
+# LIST COMPREHENSION
+
