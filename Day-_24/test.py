@@ -1,2 +1,3 @@
-value = input('Enter The Value: ')
-print(type(value))
+# value = input('Enter The Value: ')
+# print(type(value))
+
