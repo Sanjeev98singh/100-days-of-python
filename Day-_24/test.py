@@ -57,3 +57,11 @@
 # print(y)
 
 # print(type(y)) type str
+
+# calculated_value = int(input('Calculated Value'))
+
+# print(f'Calculated Value: {calculated_value}') ValueError: invalid literal for int() with base 10: '10+2*3/4'
+
+# calculated_value = eval(input('Calculated Value'))
+
+# print(f'Calculated Value: {calculated_value}') Calculated Value: 11.5
