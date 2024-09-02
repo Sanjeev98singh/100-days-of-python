@@ -17,3 +17,4 @@
 
 # Read Employee Data
 
+eno = int(input('Enter employee Number: '))
