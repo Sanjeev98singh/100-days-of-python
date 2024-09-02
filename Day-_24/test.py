@@ -21,7 +21,7 @@
 # ename = input('Enter employee Name: ')
 # esal = float(input('Enter employee Salary: '))
 # eaddr = input('Enter employee Address: ')
-# married = bool(input('Eployee Married?[True|False] '))
+# married = eval(input('Eployee Married?[True|False] '))
 # print('Please confirm your information')
 
 # print(f'Employee Number: {eno}')
