@@ -72,3 +72,5 @@
 # s = '10 20 30'
 # l = s.split()
 # print(l) ['10', '20', '30']
+
+a,b,c = [10, 20, 30] # list unpacking
