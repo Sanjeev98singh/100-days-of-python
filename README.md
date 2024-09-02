@@ -87,7 +87,7 @@ not operator in Python, Bitwise Complement Operator, import sys from Python modu
 Nested ternary operator in Python, special operator, identity operator, membership operator, modules, math module, dir module and randint module
 
 ### Day 24
-eval input function in Python
+eval input function in Python, multiple values in single line in Python, list unpackings in Python, list comprehensions in Python
 
 ## Installation
 
