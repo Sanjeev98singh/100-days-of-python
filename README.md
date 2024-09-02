@@ -86,6 +86,9 @@ not operator in Python, Bitwise Complement Operator, import sys from Python modu
 ### Day 23
 Nested ternary operator in Python, special operator, identity operator, membership operator, modules, math module, dir module and randint module
 
+### Day 24
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
