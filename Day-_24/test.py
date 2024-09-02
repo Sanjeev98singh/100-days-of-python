@@ -41,3 +41,8 @@
 # print(eval('4.7'))
 # print(eval('True'))
 # print(eval('False'))
+
+# l = eval(input('Enter The List ofEmployees'))
+
+# print(l)
+# print(type(l))
