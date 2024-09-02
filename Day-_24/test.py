@@ -80,5 +80,6 @@
 l,b = input('Enter Two Numbers: ').split()
 print(l)
 print(b)
+# print(type(b)) str
 # l = s.split()
 # print(l) ['1', '2']
