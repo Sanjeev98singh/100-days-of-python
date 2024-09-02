@@ -18,4 +18,5 @@
 # Read Employee Data
 
 eno = int(input('Enter employee Number: '))
-ename = int(input('Enter employee Name: '))
+ename = input('Enter employee Name: ')
+esal = float(input('Enter employee Salary: '))
