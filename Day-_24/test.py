@@ -20,3 +20,4 @@
 eno = int(input('Enter employee Number: '))
 ename = input('Enter employee Name: ')
 esal = float(input('Enter employee Salary: '))
+eaddr = input('Enter employee Address: ')
