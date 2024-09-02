@@ -93,3 +93,8 @@
 
 # l,b = [int(x) for x in input('Enter Two Numbers: ').split()] 
 # print(f'The Product: {l*b}')
+
+#for , 
+
+l,b = [int(x) for x in input('Enter Two Numbers: ').split(',')] 
+print(f'The Product: {l*b}')
