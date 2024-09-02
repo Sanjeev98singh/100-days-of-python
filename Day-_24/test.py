@@ -74,3 +74,5 @@
 # print(l) ['10', '20', '30']
 
 a,b,c = [10, 20, 30] # list unpacking
+# print(a,b,c) 10 20 30
+# print(type(a,b,c))  TypeError: type.__new__() argument 1 must be str, not int
