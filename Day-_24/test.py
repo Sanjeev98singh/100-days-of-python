@@ -46,3 +46,14 @@
 
 # print(l)
 # print(type(l))
+
+# x = eval('10+20+30')
+# y = input('10+20+30')
+
+# print(x)
+
+# print(type(x)) type int
+
+# print(y)
+
+# print(type(y)) type str
