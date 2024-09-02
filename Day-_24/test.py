@@ -65,3 +65,6 @@
 # calculated_value = eval(input('Calculated Value'))
 
 # print(f'Calculated Value: {calculated_value}') Calculated Value: 11.5
+
+
+# multiple values input in a single line
