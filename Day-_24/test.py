@@ -14,3 +14,6 @@
 # print(f'Addition: {val_1 + val_2}')
 
 # print(f'Addition: {int(input('Enter The Value: '))+int(input('Enter The Value: '))}')
+
+# Read Employee Data
+
