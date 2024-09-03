@@ -26,9 +26,11 @@ from sys import argv
 # x = argv[1:]
 # print(x) #['1', '2', '3']
 
+# x = argv[1:]
+# sum = 0 
+# for x1 in x:
+#     n = int(x1)
+#     sum += n
+# print(f'The Sum: {sum}')    
+
 x = argv[1:]
-sum = 0 
-for x1 in x:
-    n = int(x1)
-    sum += n
-print(f'The Sum: {sum}')    
