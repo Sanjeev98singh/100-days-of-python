@@ -38,4 +38,4 @@ from sys import argv
 
 # print(int(argv[1])+int(argv[2])) #
 
-
+# print(argv[100])  python test.py 1 2 3                 IndexError: list index out of range
