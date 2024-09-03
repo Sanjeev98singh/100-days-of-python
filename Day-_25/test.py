@@ -24,5 +24,5 @@ from sys import argv
 # READ INT VALUES FROM THE KEYBOARD AS COMMAND LINE ARGUMENTS AND PRINT THE SUM
 
 x = argv[1:]
-# print(x) ['1', '2', '3']
+# print(x) #['1', '2', '3']
 
