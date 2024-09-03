@@ -33,4 +33,5 @@ from sys import argv
 #     sum += n
 # print(f'The Sum: {sum}')    
 
-x = argv[1:]
+# print(argv[1]) #Sanjeev Singh-> Sanjeev  
+print(argv[1]) #"Sanjeev Singh"/'Sanjeev Singh'-> Sanjeev Singh  
