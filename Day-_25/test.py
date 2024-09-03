@@ -34,4 +34,8 @@ from sys import argv
 # print(f'The Sum: {sum}')    
 
 # print(argv[1]) #Sanjeev Singh-> Sanjeev  
-print(argv[1]) #"Sanjeev Singh"/'Sanjeev Singh'-> Sanjeev Singh  
+# print(argv[1]) #"Sanjeev Singh"/'Sanjeev Singh'-> Sanjeev Singh  
+
+# print(int(argv[1])+int(argv[2])) #
+
+
