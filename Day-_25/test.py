@@ -20,3 +20,6 @@ print('The number of command line arguments: ',argv)       #The number of comman
 # 1
 # 2
 # 3
+
+# READ INT VALUES FROM THE KEYBOARD AS COMMAND LINE ARGUMENTS AND PRINT THE SUM
+
