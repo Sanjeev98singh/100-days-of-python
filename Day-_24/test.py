@@ -96,5 +96,9 @@
 
 #for , 
 
-l,b = [int(x) for x in input('Enter Two Numbers: ').split(',')] 
-print(f'The Product: {l*b}')
+# l,b = [int(x) for x in input('Enter Two Numbers: ').split(',')] 
+# print(f'The Product: {l*b}')
+
+
+l,b,a = [float(x) for x in input('Enter Two Numbers: ').split('-')] 
+print(f'The Sum: {l+b+a}')
