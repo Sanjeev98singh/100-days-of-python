@@ -89,6 +89,9 @@ Nested ternary operator in Python, special operator, identity operator, membersh
 ### Day 24
 eval input function in Python, multiple values in single line in Python, list unpackings in Python, list comprehensions in Python
 
+### Day 25
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
