@@ -90,7 +90,7 @@ Nested ternary operator in Python, special operator, identity operator, membersh
 eval input function in Python, multiple values in single line in Python, list unpackings in Python, list comprehensions in Python
 
 ### Day 25
-
+Command Line Arguments
 
 ## Installation
 
