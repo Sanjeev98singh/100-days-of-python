@@ -9,7 +9,11 @@
 
 # PRINT() STATEMENT WITH SEP 
 
-# val_1 ,val_2 ,val_3 = 10,20,30
+# val_1 ,val_2 ,val_3 = 10,20,30 default seperator
 
 # print('The values are',val_1,val_2,val_3) The values are 10 20 30
-
+# val_1 ,val_2 ,val_3 = 10,20,30
+# print(val_1,val_2,val_3, sep=',')  10,20,30
+# print(val_1,val_2,val_3, sep=', ') 10, 20, 30
+# print(val_1,val_2,val_3, sep='-') 10-20-30
+# print(val_1,val_2,val_3, sep='') 102030
