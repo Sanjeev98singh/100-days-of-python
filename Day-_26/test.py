@@ -24,3 +24,8 @@
 # print('sanjeev', end = '*')
 # print('chale?',end = '*')
 # print('Ki nahi?', end = '*') hello*sanjeev*chale?*Ki nahi?*
+
+# print('hello', end = ' ')
+# print('sanjeev', end = ' ')
+# print('chale?',end = ' ')
+# print('Ki nahi?', end = ' ') hello sanjeev chale? Ki nahi? 
