@@ -9,3 +9,6 @@
 
 # PRINT() STATEMENT WITH SEP 
 
+# val_1 ,val_2 ,val_3 = 10,20,30
+
+# print('The values are',val_1,val_2,val_3) The values are 10 20 30
