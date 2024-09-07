@@ -92,6 +92,9 @@ eval input function in Python, multiple values in single line in Python, list un
 ### Day 25
 Command Line Arguments and import argv from sys
 
+### Day 26
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
