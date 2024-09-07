@@ -29,3 +29,15 @@
 # print('sanjeev', end = ' ')
 # print('chale?',end = ' ')
 # print('Ki nahi?', end = ' ') hello sanjeev chale? Ki nahi? 
+
+# val_1,val_2,val_3 = 10,20,30
+
+# print(val_1,val_2,val_3, sep='*')
+# print(val_1,val_2,val_3, sep='-')
+# 10*20*30
+# 10-20-30
+
+val_1,val_2,val_3 = 10,20,30
+
+print(val_1,val_2,val_3, sep='*')
+print(val_1,val_2,val_3, sep='-')
