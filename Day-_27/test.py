@@ -1,4 +1,4 @@
-#FORM-5
+#FORM-5(object):
 
 print(10)
 print(True)
