@@ -96,7 +96,7 @@ Command Line Arguments and import argv from sys
 Output Statement with separate arguments
 
 ### Day 27
-
+Formatted string
 
 ## Installation
 
