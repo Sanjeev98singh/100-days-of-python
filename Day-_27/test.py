@@ -15,3 +15,7 @@
 # val_1,val_2,val_3 = 10,20,30
 
 # print('The values are %i,%i,%i' %(val_1,val_2,val_3)) The values are 10,20,30
+
+# name = 'sanjeev'
+# l = [10,20,30]
+# print('hello %s... The list of items are %s' %(name,l)) hello sanjeev... The list of items are [10, 20, 30]
