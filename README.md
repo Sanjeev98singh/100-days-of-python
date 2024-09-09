@@ -95,6 +95,9 @@ Command Line Arguments and import argv from sys
 ### Day 26
 Output Statement with separate arguments
 
+### Day 27
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
