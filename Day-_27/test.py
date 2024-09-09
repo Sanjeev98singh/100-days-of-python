@@ -9,3 +9,5 @@
 
 # print('formatted string' %(variable list)) 
 
+# val1 = 10
+# print('val1 value is %i' %val1) val1 value is 10
