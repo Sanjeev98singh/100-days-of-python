@@ -21,3 +21,5 @@
 # print('hello %s... The list of items are %s' %(name,l)) hello sanjeev... The list of items are [10, 20, 30]
 
 # FORM-6(REPLACEMENT OPERATOR):
+
+name = 'sanjeev'
