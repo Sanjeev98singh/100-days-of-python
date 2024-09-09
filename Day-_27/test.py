@@ -26,5 +26,6 @@ name = 'sanjeev'
 salary = 40000
 friend = 'Abhiraj'
 
-print('My name is {} and my salary is {}. My friend is {}.'.format(name,salary,friend)) My name is sanjeev and my salary is 40000. My friend is Abhiraj.
-print('My name is {x} and my salary is {y}. My friend is {z}.'.format(x=name,y=salary,z=friend)) My name is sanjeev and my salary is 40000. My friend is Abhiraj.
+# print('My name is {} and my salary is {}. My friend is {}.'.format(name,salary,friend)) My name is sanjeev and my salary is 40000. My friend is Abhiraj.
+# print('My name is {0} and my salary is {1}. My friend is {2}.'.format(name,salary,friend)) My name is sanjeev and my salary is 40000. My friend is Abhiraj.
+# print('My name is {x} and my salary is {y}. My friend is {z}.'.format(x=name,y=salary,z=friend)) My name is sanjeev and my salary is 40000. My friend is Abhiraj.
