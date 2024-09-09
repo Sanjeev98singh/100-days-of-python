@@ -7,5 +7,5 @@
 
 #FORM -6(Formatted string):
 
-
+# print('formatted string' %(variable list)) 
 
