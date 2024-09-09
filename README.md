@@ -93,7 +93,7 @@ eval input function in Python, multiple values in single line in Python, list un
 Command Line Arguments and import argv from sys
 
 ### Day 26
-
+Output Statement with separate arguments
 
 ## Installation
 
