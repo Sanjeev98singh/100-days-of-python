@@ -102,7 +102,7 @@ Formatted string, Replacement operator
 Indentation
 
 ### Day 29
-
+membership operator in conditional operator
 
 ## Installation
 
