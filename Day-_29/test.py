@@ -11,3 +11,6 @@ tens  = {2:'twenty', 3:'thirty', 4:'forty', 5:'fifty', 6:'sixty', 7:'seventy', 8
 
 ones_digit = val%10
 tens_digit = val//10
+
+output = tens[tens_digit] + " " + units[ones_digit]
+print(output)
