@@ -33,5 +33,24 @@
 # else: 
 #     print('Number is odd')   
 
+# number = int(input('Enter the numbers bro: '))
+
+# d1 = {1:'one', 2:'two', 3:'three', 4:'four'}
+# d2 = {2:'twenty', 3:'thirty', 4:'forty'}
+# # for x in d:
+#     # if x == number:
+#     #     print(d[x])
+#     #     
+# # if number in d:
+# #     print(d[number])
+# # else:
+# #     print('Number not found in dictionary')
+    
+# ones = number // 10
+# tens = number % 10
+
+# output = d2[ones] + " " + d1[tens]
+
+# print(output)
 
      
