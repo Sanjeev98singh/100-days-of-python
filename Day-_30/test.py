@@ -21,4 +21,17 @@
 # elif number2 < number3:
 #     print(f'{number2} is the smallest number.')
 # else:
-#     print(f'{number3} is the smallest number.')         
+#     print(f'{number3} is the smallest number.')    
+
+
+# number = int(input('Enter the the number bro: '))
+
+# if number < 0:
+#     print('Number is invalid.')
+# elif number % 2 == 0:
+#     print('Number is even')
+# else: 
+#     print('Number is odd')   
+
+
+     
