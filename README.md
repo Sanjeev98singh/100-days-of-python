@@ -105,7 +105,7 @@ Indentation
 membership operator in conditional operator and number to word conversion mini project
 
 ### Day 30
-
+practice
 
 ## Installation
 
