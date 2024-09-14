@@ -1,3 +1,5 @@
 s = 'sanjeev'
+i = 0
 for x in s:
-    print(x)
+    print(i,x)
+    i+=1
