@@ -108,7 +108,7 @@ membership operator in conditional operator and number to word conversion mini p
 practice
 
 ### Day 31
-
+practice
 
 ## Installation
 
