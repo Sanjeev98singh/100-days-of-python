@@ -113,6 +113,9 @@ practice
 ## Day 32
 practice
 
+### Day 33
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
