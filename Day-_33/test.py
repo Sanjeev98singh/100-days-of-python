@@ -20,3 +20,8 @@
 # d['yo'] = 10
 
 # print(d)
+
+# s  = {1,2,3,4,5,6,7,8}
+# fs = frozenset(s)
+
+# print(fs)
