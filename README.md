@@ -117,6 +117,7 @@ practice
 practice
 
 ### Day 34
+None data type 
 
 ## Installation
 
