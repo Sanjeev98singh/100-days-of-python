@@ -18,3 +18,6 @@
 # print(number)
 # print(type(number))
 
+# lis = eval(input('enter the number'))
+# print(lis)
+# print(type(lis))
