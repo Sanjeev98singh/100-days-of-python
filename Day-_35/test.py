@@ -13,3 +13,8 @@
 # number = eval("1+2+3")
 # print(number)
 # print(type(number))
+
+# number = eval(input('enter the number'))
+# print(number)
+# print(type(number))
+
