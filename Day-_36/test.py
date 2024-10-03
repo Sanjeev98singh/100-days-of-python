@@ -33,7 +33,6 @@
 #     i +=1
 #     print('current count: ',i)
 
-for i in range(4):
-    for j in range(4):
-        print(i,j)
-        
+# for i in range(4):
+#     for j in range(4):
+#         print(i,j)
