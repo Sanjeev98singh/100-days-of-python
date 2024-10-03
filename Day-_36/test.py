@@ -16,14 +16,14 @@
 #     sum += i
 #     i += 1
 # print(sum,n)    
-name = ''
-i = 0
+# name = ''
+# i = 0
 
-while name != 'sanjeev':
-    name = input('enter your name: ')
-    i+=1
-    if i == 10:
-        print('sorry you entered wrong name 10 times')
-        break
+# while name != 'sanjeev':
+#     name = input('enter your name: ')
+#     i+=1
+#     if i == 10:
+#         print('sorry you entered wrong name 10 times')
+#         break
 
-print('thanks for confirmation')    
+# print('thanks for confirmation')    
