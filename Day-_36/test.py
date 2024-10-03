@@ -16,3 +16,9 @@
 #     sum += i
 #     i += 1
 # print(sum,n)    
+name = ''
+
+while name != 'sanjeev':
+    name = input('enter your name: ')
+
+print('thanks for confirmation')    
