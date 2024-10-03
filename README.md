@@ -123,7 +123,7 @@ None data type
 multiple input value in single line in Python, list unpackings in Python
 
 ### Day 36
-
+solving patterns using range operator
 
 ## Installation
 
