@@ -36,3 +36,12 @@
 # for i in range(4):
 #     for j in range(4):
 #         print(i,j)
+
+# while True:
+#     name = input('enter your name: ')
+#     pwd = input('Enter your password: = ')
+#     if name == 'admin' and pwd == 'password':
+#         print('Login successful!')
+#         break
+#     else:
+#         print('Invalid credentials!')
