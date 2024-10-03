@@ -122,6 +122,9 @@ None data type
 ### Day 35
 multiple input value in single line in Python, list unpackings in Python
 
+### Day 36
+
+
 ## Installation
 
 To install the required Python modules, follow these steps:
