@@ -21,3 +21,10 @@
 # lis = eval(input('enter the number'))
 # print(lis)
 # print(type(lis))
+
+from sys import argv
+print('length of arguments: ',len(argv))
+print('number of arguments: ',argv)
+for x in argv:
+    # print(x)
+    print(argv)
