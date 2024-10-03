@@ -28,7 +28,7 @@
 
 # print('thanks for confirmation')    
 
-i = 0
-while True:
-    i +=1
-    print('current count: ',i)
+# i = 0
+# while True:
+#     i +=1
+#     print('current count: ',i)
