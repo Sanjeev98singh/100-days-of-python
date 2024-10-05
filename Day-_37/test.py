@@ -20,3 +20,7 @@
 # for i in range(value):
 #     print(type('4 '*value))
 
+# value = int(input('enter the number'))
+# for i in range(value):
+#     symbol = str(value)+' '
+#     print(symbol*value)
