@@ -129,7 +129,7 @@ solving patterns using range operator
 pattern using range operator
 
 ### Day 38
-
+practiced some code snippets
 
 ## Installation
 
