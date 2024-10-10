@@ -9,3 +9,5 @@
 # else:
 #     print('False')    
 # print(5>10<5)
+
+# print('red' and 'white')
