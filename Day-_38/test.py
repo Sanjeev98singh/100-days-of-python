@@ -8,3 +8,4 @@
 #     print('True')
 # else:
 #     print('False')    
+# print(5>10<5)
