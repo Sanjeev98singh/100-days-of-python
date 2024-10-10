@@ -3,3 +3,8 @@
 # secondhand = firsthand%10
 # print(f"middle number is {secondhand}")
 
+# str = 'my name is sanjeev'
+# if 'x' in str:
+#     print('True')
+# else:
+#     print('False')    
